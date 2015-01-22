@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Assets/Scripts/MarchingCubes.cs">
+    <Files>
+      <File FileName="Assets/Assets/Scripts/MarchingCubes.cs" Line="337" Column="46" />
+      <File FileName="Assets/Assets/Scripts/World.cs" Line="32" Column="2" />
+      <File FileName="Assets/Assets/Scripts/Chunk.cs" Line="35" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
